@@ -1,0 +1,9 @@
+package: github.com/sinopex/golang/wechat
+homepage: http://wechat.go.manongview.com
+license: MIT
+owners:
+- name: Sinopex
+- email: wsj6563@gmail.com
+import:
+- package: github.com/sidbusy/weixinmp
+- package: golang.org/x/net
