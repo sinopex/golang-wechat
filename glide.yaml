@@ -1,4 +1,4 @@
-package: github.com/sinopex/golang/wechat
+package: github.com/sinopex/go-wechat
 homepage: http://wechat.go.manongview.com
 license: MIT
 owners:
